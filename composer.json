@@ -1,0 +1,22 @@
+{
+    "name": "hellkid/socialite-naszaklasa",
+    "description": "NaszaKlasa OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Evgeniy Bazarov",
+        "email": "bazarovbusiness@mail.ru"
+    }],
+    "require": {
+        "php": ">=5.5.9",
+        "socialiteproviders/manager": "2.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.0.*",
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hellkid\\SocialiteNaszaklasa\\": "src/"
+        }
+    }
+}
