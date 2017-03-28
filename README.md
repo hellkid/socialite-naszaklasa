@@ -31,7 +31,7 @@ For example:
     \SocialiteProviders\Manager\ServiceProvider::class, // add
 ];
 ```
-Note: If you would like to use the Socialite Facade, you need to [!install](https://laravel.com/docs/5.0/authentication#social-authentication) it.
+Note: If you would like to use the Socialite Facade, you need to [install](https://laravel.com/docs/5.0/authentication#social-authentication) it.
 ### 3. ADD THE EVENT AND LISTENERS
 
 Add ```SocialiteProviders\Manager\SocialiteWasCalled``` event to your ```listen[]``` array in  ```<app_name>/Providers/EventServiceProvider```.
