@@ -1,11 +1,5 @@
 # Nasza Klasa (http://nk.pl) OAuth2 Provider for Laravel Socialite
 
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/NaszaKlasa.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/NaszaKlasa/?branch=master)
-[![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/naszaklasa.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/naszaklasa)
-[![Total Downloads](https://img.shields.io/packagist/dt/socialiteproviders/naszaklasa.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/naszaklasa)
-[![Latest Unstable Version](https://img.shields.io/packagist/vpre/socialiteproviders/naszaklasa.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/naszaklasa)
-[![License](https://img.shields.io/packagist/l/socialiteproviders/naszaklasa.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/naszaklasa)
-
 ## Documentation
 This package is based on awesome packages by [Socialite Providers](http://socialiteproviders.github.io/) 
 
